@@ -1,0 +1,100 @@
+Algorithm
+Binary
+Compiler
+Debugger
+Ethernet
+Firewall
+Graphics
+HTML
+Icon
+Java
+Keyboard
+Laptop
+Memory
+Network
+Operating system
+Password
+Queue
+Router
+Software
+TCP/IP
+USB
+Virus
+Wi-Fi
+XML
+Zip
+Array
+Bit
+Cloud
+Database
+Encryption
+Floppy disk
+GUI
+Hard drive
+Input
+JavaScript
+Kernel
+LAN
+Mouse
+Notebook
+Output
+Protocol
+RAM
+Scanner
+Terminal
+Unicode
+Virtualization
+Web browser
+XSS
+Yottabyte
+Zettabyte
+ASCII
+Boot
+Cache
+DNS
+Ethernet cable
+Firewall
+Gigabyte
+HTML5
+Integer
+Java applet
+Keyboard shortcut
+LAN cable
+Malware
+Network adapter
+Opcode
+PHP
+Query
+RAID
+Serial port
+Trojan horse
+Unix
+Virtual machine
+Web server
+XML schema
+ZIP file
+API
+Bluetooth
+CSS
+DNS server
+Ethernet switch
+FTP
+Gigahertz
+Hash function
+IP address
+Java bytecode
+Kernel panic
+LAN card
+Megapixel
+Null pointer
+Opcode table
+PHP script
+Query language
+RAID controller
+Stack overflow
+USB drive
+Virus scanner
+Web hosting
+XML document
+Zero-day exploit
+Authentication
